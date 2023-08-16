@@ -1,7 +1,6 @@
 # mango_leaves_disease_classification
-##Disease classification of mango leaves using image processing.
-
-![classify_leaf_image](E:\0_pV0y5hTawkvEGNzb.jpg)
+**Disease classification of mango leaves using image processing**
+![0_pV0y5hTawkvEGNzb](https://github.com/Haider-Ali-Kha-N/mango_leaves_disease_classification/assets/107167357/d91717c9-6b8f-494c-bfec-421dfc5f6961)
 
 This project is to practice and understand how to classify any image using the image processing method. The dataset is collected from (https://www.kaggle.com/datasets/aryashah2k/mango-leaf-disease-dataset).
 
@@ -25,6 +24,6 @@ Where applicable: Suitable for distinguishing healthy and diseases leaves (two-c
 prediction) as well as for differentiating among various diseases (multi-
 class prediction).
 
-Please cite the following if you use this dataset:
+*Please cite the following if you use this dataset:*
 
 Ali, Sawkat; Ibrahim, Muhammad ; Ahmed, Sarder Iftekhar ; Nadim, Md. ; Mizanur, Mizanur Rahman; Shejunti, Maria Mehjabin ; Jabid, Taskeed (2022), “MangoLeafBD Dataset”, Mendeley Data, V1, doi: 10.17632/hxsnvwty3r.1
